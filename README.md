@@ -1,0 +1,1 @@
+solutions for advent of code 2015 -> http://adventofcode.com/2015
